@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>해킨토시</title>
+  <subtitle>해킨토시에 대한 거의 모든 것</subtitle>
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="http://hackintosh.ampm.gq/"/>
+  <updated>2016-12-28T02:42:53.485Z</updated>
+  <id>http://hackintosh.ampm.gq/</id>
+  
+  <author>
+    <name>ampm</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>이동식 디스크 초기화하는 방법</title>
+    <link href="http://hackintosh.ampm.gq/2016/11/18/%EC%9D%B4%EB%8F%99%EC%8B%9D-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/"/>
+    <id>http://hackintosh.ampm.gq/2016/11/18/이동식-디스크-초기화하는-방법/</id>
+    <published>2016-11-18T00:00:00.000Z</published>
+    <updated>2016-12-28T02:42:53.485Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile1.uf.tistory.com/image/25073B49582E67C011E7AD" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>USB에 작업해 놓은 것이 있어서</span> </li>
+<li><span>그러면 지금 연결된 디스크 목록이 나타난다.</span> </li>
+<li><span>현재 어떤 디스크가 선택되었는지 확인된</span></li>
+</ol>
+<hr>
+<div>사실 나는 커스텀맥(해킨토시) 고스트 파일을<br>USB에 작업해 놓은 것이 있어서<br>이것을 되돌리기 위해 시작된 일이었다.<br>서론을 모두 생략하고 먼저 이동식 디스크(USB Memory)를<br>초기화하는 방법에 대해서 알아보자.<br><br>&lt; 진행방법 &gt;<br>먼저 windows 환경에서 윈도우 버튼과 ‘R’을 눌러준다.<br><br><br>“cmd”를 입력하고 ‘확인’ 버튼을 누른다.<br><br>“dis</div>
+
+<p>…중략…</p>
+<div>타난다.<br>“create partition primary”를 입력한다.<br><br>진행이 완료되면 내 컴퓨터로 돌아와<br>이동식 디스크의 마우스 오른쪽을 눌러서<br>원하는 방식으로 포맷을 진행한다.</div>
+
+<hr>
+<p><a href="http://leopark93.tistory.com/76" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile1.uf.tistory.com/image/25073B49582E67C011E7AD&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/
+    
+    </summary>
+    
+    
+      <category term="이동식" scheme="http://hackintosh.ampm.gq/tags/%EC%9D%B4%EB%8F%99%EC%8B%9D/"/>
+    
+      <category term="디스크" scheme="http://hackintosh.ampm.gq/tags/%EB%94%94%EC%8A%A4%ED%81%AC/"/>
+    
+      <category term="초기화하" scheme="http://hackintosh.ampm.gq/tags/%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98/"/>
+    
+      <category term="방법" scheme="http://hackintosh.ampm.gq/tags/%EB%B0%A9%EB%B2%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>동영상 편집 프로그램 무엇을 선택하는 것이 좋을까?</title>
+    <link href="http://hackintosh.ampm.gq/2016/11/17/%EB%8F%99%EC%98%81%EC%83%81-%ED%8E%B8%EC%A7%91-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C-/"/>
+    <id>http://hackintosh.ampm.gq/2016/11/17/동영상-편집-프로그램-무엇을-선택하는-것이-좋을까-/</id>
+    <published>2016-11-17T00:00:00.000Z</published>
+    <updated>2016-12-28T02:42:55.065Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile7.uf.tistory.com/image/2346043A5830622D351767" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>같은 어도비사의 애프터 이펙트와의 호환성이라고 볼 수 있습니다.</span> </li>
+<li><span>하지만 이 프로그램은</span> </li>
+<li><span>이렇게 동영상 편집 프로그램의 종류와 특성을 살펴보았는데요.</span></li>
+</ol>
+<hr>
+<div>동영상 편집 프로그램 무엇을 선택하는 것이 좋을까?<br><br><br><br><br><br><br><br>유튜브나 트위치 그리고 최근 갑질 논란이 일고 있는 아프리카까지많은 콘텐츠 시장이 생기면서 1인 크리에이터가 되고 싶어 하는 사람이 참 많아진 것 같습니다!<br><br><br><br><br><br><br>하나의 영상 콘텐츠를 만들려고 하면영상을 편집할 수 있는 동영상 편집 프로그램이 필요한데요.아직 아무것도 모르고 무작정해보겠다</div>
+
+<p>…중략…</p>
+<div>버튼 누르기!<br><br><br><br><br><br><br><br><br><br>크리에이티브 커먼즈 라이선스이 저작물은 크리에이티브 커먼즈 코리아 저작자표시-비영리-변경금지 2.0 대한민국 라이선스에 따라 이용하실 수 있습니다.</div>
+
+<hr>
+<p><a href="http://ggmu.tistory.com/60" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile7.uf.tistory.com/image/2346043A5830622D351767&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/
+    
+    </summary>
+    
+    
+      <category term="프로그램" scheme="http://hackintosh.ampm.gq/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/"/>
+    
+      <category term="동영상" scheme="http://hackintosh.ampm.gq/tags/%EB%8F%99%EC%98%81%EC%83%81/"/>
+    
+      <category term="편집" scheme="http://hackintosh.ampm.gq/tags/%ED%8E%B8%EC%A7%91/"/>
+    
+      <category term="무엇" scheme="http://hackintosh.ampm.gq/tags/%EB%AC%B4%EC%97%87/"/>
+    
+      <category term="선택하" scheme="http://hackintosh.ampm.gq/tags/%EC%84%A0%ED%83%9D%ED%95%98/"/>
+    
+      <category term="좋을까?" scheme="http://hackintosh.ampm.gq/tags/%EC%A2%8B%EC%9D%84%EA%B9%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Install macOS Sierra 10.12 [Hackintosh/해킨토시]</title>
+    <link href="http://hackintosh.ampm.gq/2016/10/28/Install-macOS-Sierra-10.12-%5BHackintosh-%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C%5D/"/>
+    <id>http://hackintosh.ampm.gq/2016/10/28/Install-macOS-Sierra-10.12-[Hackintosh-해킨토시]/</id>
+    <published>2016-10-28T00:00:00.000Z</published>
+    <updated>2016-12-28T02:42:57.445Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile24.uf.tistory.com/image/2512FA395813FC3505ECF5" alt=""></h2><p></p><p><strong>4 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>CPU : Intel Core i7-4790(3.6Ghz)Mainboar …중략… G3RAM : Samsung PC3-12800 8GB x 4 = 32GB</span> </li>
+<li><span>SSD2 : Crucial MX200 500GB SSD (MLC/555MB/500MB) - Windows 10</span> </li>
+<li><span>HDD : Segate 2TB Barracuda ST2000DM001 (SATA3/7200RPM/64MB)</span> </li>
+<li><span><a href="http://x86osx.com/bbs/zboard.php?id=pds" rel="external nofollow noopener noreferrer" target="_blank">http://x86osx.com/bbs/zboard.php?id=pds</a></span></li>
+</ol>
+<hr>
+<div>&lt; 하드웨어 정보 &gt;CPU : Intel Core i7-4790(3.6Ghz)Mainboard : Gigabyte H97-G3RAM : Samsung PC3-12800 8GB x 4 = 32GBVGA : Gigabyte Geforce GTX 960 2GBSSD1 : Crucial MX200 250GB SSD (MLC/555MB/500MB) - Hackint</div>
+
+<p>…중략…</p>
+<div>alth CaseMonitor : Alphascan AOC 2777 IPS MHL+DP&lt; 해킨정보 &gt;<a href="http://x86osx.com/bbs/zboard.php?id=pds" rel="external nofollow noopener noreferrer" target="_blank">http://x86osx.com/bbs/zboard.php?id=pds</a><br><br>dob</div>
+
+<hr>
+<p><a href="http://noways.tistory.com/217" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile24.uf.tistory.com/image/2512FA395813FC3505ECF5&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="Install" scheme="http://hackintosh.ampm.gq/tags/Install/"/>
+    
+      <category term="macOS" scheme="http://hackintosh.ampm.gq/tags/macOS/"/>
+    
+      <category term="Sierra" scheme="http://hackintosh.ampm.gq/tags/Sierra/"/>
+    
+      <category term="1012" scheme="http://hackintosh.ampm.gq/tags/1012/"/>
+    
+      <category term="Hackintosh/해킨토시" scheme="http://hackintosh.ampm.gq/tags/Hackintosh-%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intel Nuc hackintosh - el capitan 설치기</title>
+    <link href="http://hackintosh.ampm.gq/2016/08/31/Intel-Nuc-hackintosh---el-capitan-%EC%84%A4%EC%B9%98%EA%B8%B0/"/>
+    <id>http://hackintosh.ampm.gq/2016/08/31/Intel-Nuc-hackintosh---el-capitan-설치기/</id>
+    <published>2016-08-31T00:00:00.000Z</published>
+    <updated>2016-12-28T02:43:02.089Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile24.uf.tistory.com/image/2371DD3E57C6D58002FE3B" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>해킨토시란 ?애플 매킨토시 제품이 아닌 컴퓨터에 Mac OS/OS X를 설치하는 것을 일컫는 단어</span> </li>
+<li><span>Intel Nuc i5-haswell 제품입니다.맥미니와 비슷한 사양에  …중략… sd, hdd, bluetooth + wifi 장착까지 가능한 모델이죠.</span> </li>
+<li><span>참고 링크 : <a href="http://www.tonymacx86.com/thread" rel="external nofollow noopener noreferrer" target="_blank">http://www.tonymacx86.com/thread</a> …중략… pitan-on-the-intel-broadwell-nuc.171942/</span></li>
+</ol>
+<hr>
+<div>크리에이티브 커먼즈 라이선스이 저작물은 크리에이티브 커먼즈 코리아 저작자표시-비영리-동일조건변경허락 2.0 대한민국 라이선스에 따라 이용하실 수 있습니다.<br><br>안녕하세요. 이번엔 해킨토시에 관한 포스팅을 하려고합니다. (해킨토시를 한지는 꾀되었지만 귀찮아서 포스팅을 이제하네요)해킨토시란 ?애플 매킨토시 제품이 아닌 컴퓨터에 Mac OS/OS X를 설치하</div>
+
+<p>…중략…</p>
+<div> 완료합니다.참고 링크 : <a href="http://www.tonymacx86.com/threads/guide-el-capitan-on-the-intel-broadwell-nuc.171942/" rel="external nofollow noopener noreferrer" target="_blank">http://www.tonymacx86.com/threads/guide-el-capitan-on-the-intel-broadwell-nuc.171942/</a></div>
+
+<hr>
+<p><a href="http://code-bross.tistory.com/4" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile24.uf.tistory.com/image/2371DD3E57C6D58002FE3B&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="Intel" scheme="http://hackintosh.ampm.gq/tags/Intel/"/>
+    
+      <category term="Nuc" scheme="http://hackintosh.ampm.gq/tags/Nuc/"/>
+    
+      <category term="hackintosh" scheme="http://hackintosh.ampm.gq/tags/hackintosh/"/>
+    
+      <category term="el" scheme="http://hackintosh.ampm.gq/tags/el/"/>
+    
+      <category term="capitan" scheme="http://hackintosh.ampm.gq/tags/capitan/"/>
+    
+      <category term="설치기" scheme="http://hackintosh.ampm.gq/tags/%EC%84%A4%EC%B9%98%EA%B8%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016년 컴퓨터 및 IT 기기 근황</title>
+    <link href="http://hackintosh.ampm.gq/2016/06/24/2016%EB%85%84-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%B0%8F-IT-%EA%B8%B0%EA%B8%B0-%EA%B7%BC%ED%99%A9/"/>
+    <id>http://hackintosh.ampm.gq/2016/06/24/2016년-컴퓨터-및-IT-기기-근황/</id>
+    <published>2016-06-24T00:00:00.000Z</published>
+    <updated>2016-12-28T02:43:07.997Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile26.uf.tistory.com/image/260EA539576CECE001EDF8" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>처음에 데스크탑으로 바꿀 계획을 세웠을 때에만 해도 해킨토시를 설치해서, …중략… 지났지만 그 필요한 때는 찾아오지 않았다. 앞으로도 안 찾아올 것 같다.</span> </li>
+<li><span>기존에 사용하던 스피커는 애쉬톤 AT-1010 이라는 모델인데, 소리는  …중략… 던 캔스톤 R224 를 반값에 판매하는 것을 발견해서 그것으로 교체했다.</span> </li>
+<li><span>겁나게 크다!</span></li>
+</ol>
+<hr>
+<div>[데스크탑]2013년에 결혼하면서 데스크탑이 1대 더 필요한 상황이 되어 맥미니(2012) 버전을 구입했었다. 컴퓨터나 IT 기기는 물론이고 그 외의 어떤 물건이더라도 가성비를 그 무엇보다 중요하게 생각하는 내가 가장 싫어하는 애플 제품을 구입한 이유는 iOS 앱 개발을 하기 위해서였다. 순수하게 아이폰 앱을 개발할 용도는 아니고, cocos2d-x 로 게</div>
+
+<p>…중략…</p>
+<div>Voice (3G) 를 추가로 신청해도 마찬가지. 약간은 복불복인 케이스인데, 마이크 QC 가 똥망인 것 같다.그렇지만 난 통화할 일이 거의 없으므로 상관없는 상태. 만족도 높다.</div>
+
+<hr>
+<p><a href="http://tetris.tistory.com/432" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile26.uf.tistory.com/image/260EA539576CECE001EDF8&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="2016년" scheme="http://hackintosh.ampm.gq/tags/2016%EB%85%84/"/>
+    
+      <category term="컴퓨터" scheme="http://hackintosh.ampm.gq/tags/%EC%BB%B4%ED%93%A8%ED%84%B0/"/>
+    
+      <category term="IT" scheme="http://hackintosh.ampm.gq/tags/IT/"/>
+    
+      <category term="기기" scheme="http://hackintosh.ampm.gq/tags/%EA%B8%B0%EA%B8%B0/"/>
+    
+      <category term="근황" scheme="http://hackintosh.ampm.gq/tags/%EA%B7%BC%ED%99%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>해킨토시 구성하기 -</title>
+    <link href="http://hackintosh.ampm.gq/2016/01/08/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0----5.-OS-X(%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C)%EC%97%90-%ED%81%B4%EB%A1%9C%EB%B2%84%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/"/>
+    <id>http://hackintosh.ampm.gq/2016/01/08/해킨토시-구성하기----5.-OS-X(해킨토시)에-클로버를-적용하기/</id>
+    <published>2016-01-08T00:00:00.000Z</published>
+    <updated>2016-12-28T02:43:18.613Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile9.uf.tistory.com/image/26546343568F44383A315B" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>▼ 클로버를 OS X 파티션에 설치해줍니다.</span> </li>
+<li><span>‘FakeSMC’와 ‘HFSPlus’는 주인장이 첨부한 것을 써도 좋으나 …중략… 맥, X86, X86OSX같은 커뮤니티에서 검색 후 다운받으시면 됩니다.</span> </li>
+<li><span>• 해킨토시 구성하기 - #4. OS X(해킨토시) 설치하기</span></li>
+</ol>
+<hr>
+<div>안녕하세요! BAZINGA! 입니다.<br><br>오늘은 다섯번째! OS X(해킨토시)에 클로버를 적용하는 작업을 하겠습니다. USB없이 하드디스크(또는 SSD)로 부팅하기 위한 것이 차분히 따라온다면 문제 없을겁니다. 다만 이번 과정이 잘못되면 부팅이 안될수도 있습니다. 주의해서 따라와주세요.<br><br>▼ USB를 꽂아준 채 클로버로 부팅시켜줍니다.<br><br><br>▲ 부팅은 ‘</div>
+
+<p>…중략…</p>
+<div>토시) 설치하기<br><br><br><br><br><br>크리에이티브 커먼즈 라이선스이 저작물은 크리에이티브 커먼즈 코리아 저작자표시-비영리-동일조건변경허락 2.0 대한민국 라이선스에 따라 이용하실 수 있습니다.</div>
+
+<hr>
+<p><a href="http://my-think.tistory.com/12" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile9.uf.tistory.com/image/26546343568F44383A315B&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/
+    
+    </summary>
+    
+    
+      <category term="해킨토시" scheme="http://hackintosh.ampm.gq/tags/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C/"/>
+    
+      <category term="구성하기" scheme="http://hackintosh.ampm.gq/tags/%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0/"/>
+    
+      <category term="OS" scheme="http://hackintosh.ampm.gq/tags/OS/"/>
+    
+      <category term="X해킨토시에" scheme="http://hackintosh.ampm.gq/tags/X%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C%EC%97%90/"/>
+    
+      <category term="클로버" scheme="http://hackintosh.ampm.gq/tags/%ED%81%B4%EB%A1%9C%EB%B2%84/"/>
+    
+      <category term="적용하기" scheme="http://hackintosh.ampm.gq/tags/%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>맥 사용자가 봐야할 유용한 사이트 9선</title>
+    <link href="http://hackintosh.ampm.gq/2015/10/25/%EB%A7%A5-%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EB%B4%90%EC%95%BC%ED%95%A0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-9%EC%84%A0/"/>
+    <id>http://hackintosh.ampm.gq/2015/10/25/맥-사용자가-봐야할-유용한-사이트-9선/</id>
+    <published>2015-10-25T00:00:00.000Z</published>
+    <updated>2016-12-28T02:43:22.097Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://i.creativecommons.org/l/by-nc-sa/2.0/kr/88x31.png" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>맥 관련 정보를 포함한 다양한 콘텐츠들을 볼 수 있다.<a href="http://win" rel="external nofollow noopener noreferrer" target="_blank">http://win</a> …중략… r.tistory.com/category/Mac%20%26%20Apple</span> </li>
+<li><span>맥과 관련 콘텐츠는 물론 중고장터도 활발하다.<a href="http://kmug.co.kr/" rel="external nofollow noopener noreferrer" target="_blank">http://kmug.co.kr/</a></span> </li>
+<li><span>윈도우에 맥을 설치시 참고할 정보가 많다. 해킨토시 커뮤니티.<a href="http://x86osx.com/bbs/zboard.php?id=index" rel="external nofollow noopener noreferrer" target="_blank">http://x86osx.com/bbs/zboard.php?id=index</a></span></li>
+</ol>
+<hr>
+<div>맥 사용자가 봐야할 유용한 사이트 9선99년도 부터 시작된 알비레오의 파워북 포럼형태로 운영된다.<a href="http://www.albireo.net/" rel="external nofollow noopener noreferrer" target="_blank">http://www.albireo.net/</a> 맥 관련 정보를 포함한 다양한 콘텐츠들을 볼 수 있다.<a href="http://windwaker.tistory.com/category/Mac%20%26%20Apple맥과" rel="external nofollow noopener noreferrer" target="_blank">http://windwaker.tistory.com/category/Mac%20%26%20Apple맥과</a> 관련 콘텐츠는 물론 중고장터도 활발하다.<a href="http://kmug" rel="external nofollow noopener noreferrer" target="_blank">http://kmug</a>.</div>
+
+<p>…중략…</p>
+<div>m_mac<br><br><br><br><br><br><br><br><br>크리에이티브 커먼즈 라이선스이 저작물은 크리에이티브 커먼즈 코리아 저작자표시-비영리-동일조건변경허락 2.0 대한민국 라이선스에 따라 이용하실 수 있습니다.</div>
+
+<hr>
+<p><a href="http://editorarenahq.tistory.com/34" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://i.creativecommons.org/l/by-nc-sa/2.0/kr/88x31.png&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p
+    
+    </summary>
+    
+    
+      <category term="사용자" scheme="http://hackintosh.ampm.gq/tags/%EC%82%AC%EC%9A%A9%EC%9E%90/"/>
+    
+      <category term="봐야할" scheme="http://hackintosh.ampm.gq/tags/%EB%B4%90%EC%95%BC%ED%95%A0/"/>
+    
+      <category term="유용한" scheme="http://hackintosh.ampm.gq/tags/%EC%9C%A0%EC%9A%A9%ED%95%9C/"/>
+    
+      <category term="사이트" scheme="http://hackintosh.ampm.gq/tags/%EC%82%AC%EC%9D%B4%ED%8A%B8/"/>
+    
+      <category term="9선" scheme="http://hackintosh.ampm.gq/tags/9%EC%84%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>맥 설치 이야기</title>
+    <link href="http://hackintosh.ampm.gq/2013/07/20/%EB%A7%A5-%EC%84%A4%EC%B9%98-%EC%9D%B4%EC%95%BC%EA%B8%B0/"/>
+    <id>http://hackintosh.ampm.gq/2013/07/20/맥-설치-이야기/</id>
+    <published>2013-07-20T00:00:00.000Z</published>
+    <updated>2016-12-28T02:43:40.485Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile28.uf.tistory.com/image/221F0F4F51EBE9C722B2D4" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>이번에도 만만치는 않네요.</span> </li>
+<li><span>어렵게 OS X 10.8.3 해킨 이미지(dmg)  파일을 구할 수 있어서</span> </li>
+<li><span>USB 메모리에 굽고 부팅하니</span></li>
+</ol>
+<hr>
+<div>요즘 맥(MAC)에 푹 빠져 있습니다.<br>정확히 말하면 해킨토시지요.<br>맥, iMac을 사자니 총알이 모자라 임시방편으로 인텔컴에 해킨을 한겁니다.<br>옛날에도 컴에 맥을 설치하려고 시도했다가<br>며칠동안 헛지랄?만 한 경험이 있는데<br>이번에도 만만치는 않네요.<br>며칠째 이러고 있어 눈탱이가 시리고 아프네요.<br>                              애플 </div>
+
+<p>…중략…</p>
+<div> 나고<br>커널 패닉^^<br>아!  S B ,  S B<br>겨우 설치하고 맥부팅이 되네요.<br>그게<br>이겁니다.(이미지를 클릭하시면 전체화면으로 보입니다)그런데아직도 갈길이 멀어보이네요.에휴^ ^</div>
+
+<hr>
+<p><a href="http://it-smart.tistory.com/3" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile28.uf.tistory.com/image/221F0F4F51EBE9C722B2D4&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="설치" scheme="http://hackintosh.ampm.gq/tags/%EC%84%A4%EC%B9%98/"/>
+    
+      <category term="이야기" scheme="http://hackintosh.ampm.gq/tags/%EC%9D%B4%EC%95%BC%EA%B8%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>해킨토시 설치 후 기능 알아보기</title>
+    <link href="http://hackintosh.ampm.gq/2013/07/20/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C-%EC%84%A4%EC%B9%98-%ED%9B%84-%EA%B8%B0%EB%8A%A5-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/"/>
+    <id>http://hackintosh.ampm.gq/2013/07/20/해킨토시-설치-후-기능-알아보기/</id>
+    <published>2013-07-20T00:00:00.000Z</published>
+    <updated>2016-12-28T02:43:39.593Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile23.uf.tistory.com/image/0175873F51EA7935393DE5" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>맥용 토렌트도 실제 해 보니 윈도우와 다를게 없어요. 잘됩니다.</span> </li>
+<li><span>검색엔진이 다르다 보니까 각각 장점이 있겠지여. 저는 잘^^</span> </li>
+<li><span>구글링을 좀 더 해야 할 듯….</span></li>
+</ol>
+<hr>
+<div>맥 아니 해킨토시를 설치하는데 성공했습니다.<br>며칠간 삽질을 하고 겨우 초기화면 안드로메다를 볼 수 있었어요.<br>(햇갈리니까 그냥 해킨이라 부릅니다)<br><br><br>그럼 해킨으로 뭘 할 수 있을까요?<br>맥으로 할 수 있는것은 다 합니다.<br>왜냐하면 해킨도 맥이니까요.<br>아직도 인텔 윈도우컴보다는 비싸다 보니까 저처럼 인텔컴에 맥을 포팅하여<br>사용하는 사람들이 있으니까요.<br>하지만</div>
+
+<p>…중략…</p>
+<div>기능을 대충?<br>알아봤네요.<br><br>제가 리얼 맥 사용자가 아니라 자세히 설명 못 드린점 양해 부탁드립니다.<br>이상으로 마칩니다.<br><br>다음에는<br>드라이버 설정편입니다.<br>많이 기대해 주세요.</div>
+
+<hr>
+<p><a href="http://it-smart.tistory.com/41" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile23.uf.tistory.com/image/0175873F51EA7935393DE5&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="설치" scheme="http://hackintosh.ampm.gq/tags/%EC%84%A4%EC%B9%98/"/>
+    
+      <category term="해킨토시" scheme="http://hackintosh.ampm.gq/tags/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C/"/>
+    
+      <category term="기능" scheme="http://hackintosh.ampm.gq/tags/%EA%B8%B0%EB%8A%A5/"/>
+    
+      <category term="알아보기" scheme="http://hackintosh.ampm.gq/tags/%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>해킨토시(Hacintoshi) Lion 1.7.3 설치 (스노레오파드 설치에서...</title>
+    <link href="http://hackintosh.ampm.gq/2012/04/20/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C(Hacintoshi)-Lion-1.7.3-%EC%84%A4%EC%B9%98-(%EC%8A%A4%EB%85%B8%EB%A0%88%EC%98%A4%ED%8C%8C%EB%93%9C-%EC%84%A4%EC%B9%98%EC%97%90%EC%84%9C.../"/>
+    <id>http://hackintosh.ampm.gq/2012/04/20/해킨토시(Hacintoshi)-Lion-1.7.3-설치-(스노레오파드-설치에서.../</id>
+    <published>2012-04-20T00:00:00.000Z</published>
+    <updated>2016-12-28T02:44:02.401Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://cfile10.uf.tistory.com/image/190727434F90BD84110690" alt=""></h2><p></p><p><strong>3 줄 요약.</strong></p><p></p>
+<ol>
+<li><span>이제 iBoot를 CD에 굽는다. UltraISO 등을 이용해 이미지 레 …중략…  Snow Leopard Install USB를 PC에 꼽고 리부팅한다.</span> </li>
+<li><span>라이온은 DVD로 판매되지않는다. 그러므로 맥북에서 app store에  …중략… 플리케이션폴더에 복사해놓고 실행하여 설치를 진행한다.완료 후 리부팅한다.</span> </li>
+<li><span>멀티비스트 설치 후 리부팅하면 ATY_Init.kext는 그대로 남아있지 …중략… 듀얼로 연결해 사용하고있는데, 별도의 설정없이 바로 듀얼모니터가 잡혔다.</span></li>
+</ol>
+<hr>
+<div>몇날 몇일을 고생한 끝에 결국 해킨토시 설치를 완료하였다.먼저 해킨 설치에 큰 도움이 된 사이트(블로그)를 밝힌다.튜토리얼1(전반적인 과정) : <a href="http://mymac4music.tistory.com/튜토리얼2(멀티비스트" rel="external nofollow noopener noreferrer" target="_blank">http://mymac4music.tistory.com/튜토리얼2(멀티비스트</a> 세팅) : <a href="http://blog.naver.com/hl5bpl/20136003233그래픽" rel="external nofollow noopener noreferrer" target="_blank">http://blog.naver.com/hl5bpl/20136003233그래픽</a> 설정 : <a href="http://x86osx.com/bbs" rel="external nofollow noopener noreferrer" target="_blank">http://x86osx.com/bbs</a></div>
+
+<p>…중략…</p>
+<div>를 옵션키로 사용하도록 변경했다.한참 삽질하여 설치했는데 막상 정리하고나니 별로 복잡하지가 않았다.다시한번 도움을 주신 shunu님, 승주아빠님, 정지윤님게 감사의 뜻을 전합니다.</div>
+
+<hr>
+<p><a href="http://taxihighway.tistory.com/28" rel="external nofollow noopener noreferrer" target="_blank">원본글</a> | <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">수집 관련 피드백 : wpcontenttk@gmail.com</a><br>CCL License. 저작자 표시.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://cfile10.uf.tistory.com/image/190727434F90BD84110690&quot; alt=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="설치" scheme="http://hackintosh.ampm.gq/tags/%EC%84%A4%EC%B9%98/"/>
+    
+      <category term="해킨토시Hacintoshi" scheme="http://hackintosh.ampm.gq/tags/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9CHacintoshi/"/>
+    
+      <category term="Lion" scheme="http://hackintosh.ampm.gq/tags/Lion/"/>
+    
+      <category term="173" scheme="http://hackintosh.ampm.gq/tags/173/"/>
+    
+      <category term="스노레오파드" scheme="http://hackintosh.ampm.gq/tags/%EC%8A%A4%EB%85%B8%EB%A0%88%EC%98%A4%ED%8C%8C%EB%93%9C/"/>
+    
+      <category term="설치에서" scheme="http://hackintosh.ampm.gq/tags/%EC%84%A4%EC%B9%98%EC%97%90%EC%84%9C/"/>
+    
+  </entry>
+  
+</feed>
